@@ -39,8 +39,16 @@ beer-drinking community. We love what we do, and hope that it comes across as yo
 to source locally, obtaining hops from our brewery's hop yards, malt from local farmers, and the clearest of natural spring water 
 that we find rushing from the peaks of our beautiful VT mountains. 
 
-More to come,
+</p>
 
+<p>
+
+ More to come,
+ 
+</p>
+
+<p>
+    
 -Taylor and Jim
     
 </p>
